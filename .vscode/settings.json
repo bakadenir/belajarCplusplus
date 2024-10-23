@@ -1,0 +1,7 @@
+{
+    "editor.minimap.autohide": true,
+    "editor.inlineSuggest.enabled": false,
+    "editor.inlineSuggest.syntaxHighlightingEnabled": true,
+    "files.autoSave": "onWindowChange",
+    "editor.wordWrap": "on"
+}
